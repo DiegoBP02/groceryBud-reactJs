@@ -1,6 +1,6 @@
 Aprendendo React, neste caso, aplicações do useState e useEffect em um site. Página que permite o usuário criar uma lista de compras para o supermercado. Possui as seguintes funcionalidades:
 
-- Adicionar, remove ou editar os itens
+- Adicionar, remover ou editar os itens
 - Os itens ficam armazenados no Local Storage, sendo possível acessá-los mesmo após sair da página
 - Ao executar uma funcionalidade, é exibido o que foi realizado
 
